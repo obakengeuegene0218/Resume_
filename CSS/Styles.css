@@ -9,9 +9,9 @@ a {
 }
 
 
-h2,h3 {
+h2 {
     color:whitesmoke;
-    font-family: arial, helvetica, "sans serif";
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 150%;
   }
 
@@ -24,4 +24,14 @@ border: black;
 a:hover {background-color:rgb(212, 245, 212) ;
 }
 
-    
+div {
+    background-color: rgb(220, 255, 255);
+ }
+
+span {color: rgb(211, 194, 194);
+font-weight: bold;
+}
+
+h3 {font-family: 'Times New Roman', Times, serif;
+color: antiquewhite;
+}
