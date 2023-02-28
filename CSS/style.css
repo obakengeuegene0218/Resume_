@@ -9,8 +9,8 @@ a {
 }
 
 
-h2 {
-    color: blue;
+h2,h3 {
+    color: black;
     font-family: arial, helvetica, "sans serif";
     font-size: 150%;
   }
