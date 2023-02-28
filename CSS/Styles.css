@@ -10,22 +10,21 @@ a {
 
 
 h2 {
-    color:whitesmoke;
+    color:black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 150%;
   }
 
 
   body { 
-    background-color:black;
-
-border: black;
+    background-color:antiquewhite;
 }
 a:hover {background-color:rgb(212, 245, 212) ;
 }
 
 div {
     background-color: rgb(220, 255, 255);
+    width: 150px;
  }
 
 span {color: rgb(211, 194, 194);
@@ -33,5 +32,5 @@ font-weight: bold;
 }
 
 h3 {font-family: 'Times New Roman', Times, serif;
-color: antiquewhite;
+color:peru;
 }
