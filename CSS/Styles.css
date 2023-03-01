@@ -5,7 +5,7 @@ p {
 
 
 a {
-    color: lightgreen;
+    color:#008D82;
 }
 
 
@@ -17,15 +17,9 @@ h2 {
 
 
   body { 
-    background-color:antiquewhite;
-}
-a:hover {background-color:rgb(212, 245, 212) ;
+    background-color:#D6E5EB;
 }
 
-div {
-    background-color:whitesmoke;
-    width: 150px;
- }
 
 span {color: rgb(211, 194, 194);
 font-weight: bold;
@@ -34,3 +28,29 @@ font-weight: bold;
 h3 {font-family: 'Times New Roman', Times, serif;
 color:peru;
 }
+
+
+section {
+    background-color: aliceblue;}
+
+    header{background-color:#B0A8B9;
+    text-align: center; 
+margin-left: auto;
+margin-left: auto;}
+
+
+.image {border-radius: 50%;
+}
+
+
+aside { background-color: #ADC5CF;
+width: fit-content;
+height: auto;
+}
+
+
+.name { 
+    text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 50px;
+color: antiquewhite;}
