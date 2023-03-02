@@ -18,7 +18,9 @@ h2 {
 
   body { 
     background-color:#D6E5EB;
-}
+    border: #388BA6,40px;
+    border-style: solid;
+    }
 
 
 span {color: rgb(211, 194, 194);
@@ -31,12 +33,16 @@ color:peru;
 
 
 section {
-    background-color: aliceblue;}
+    background-color: aliceblue;
+padding-top: 2%;
+margin-top: 0;}
 
     header{background-color:#B0A8B9;
     text-align: center; 
 margin-left: auto;
-margin-left: auto;}
+margin-left: auto;
+padding-bottom: 5%;
+}
 
 
 .image {border-radius: 50%;
@@ -46,6 +52,10 @@ margin-left: auto;}
 aside { background-color: #ADC5CF;
 width: fit-content;
 height: auto;
+padding-top:5%;
+padding-bottom:5%;
+font-size: 20px;
+line-height: 2pc;
 }
 
 
@@ -53,4 +63,11 @@ height: auto;
     text-align: center;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 50px;
-color: antiquewhite;}
+color: antiquewhite;
+ }
+
+ article {margin-left: 5px
+;margin-right: 5px;}
+
+footer { margin-left: 4px;
+margin-right: 4px;}
