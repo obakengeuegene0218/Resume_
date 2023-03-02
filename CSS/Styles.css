@@ -71,3 +71,9 @@ color: antiquewhite;
 
 footer { margin-left: 4px;
 margin-right: 4px;}
+
+a:hover
+ { 
+    
+     background-color: #121416;
+}
