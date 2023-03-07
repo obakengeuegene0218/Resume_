@@ -68,4 +68,11 @@ h2{
 
 form{
     display: inline-block;
+    box-shadow: black;
+}
+
+
+button:hover{
+    background-color: white;
+    box-shadow: inset;
 }
