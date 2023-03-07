@@ -76,3 +76,7 @@ button:hover{
     background-color: white;
     box-shadow: inset;
 }
+
+.reason{
+    font-size: 33%;
+}
