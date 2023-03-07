@@ -65,9 +65,7 @@ h3{
 h2{
     color: black;
 }
-button{
-    padding: 10px 15px;
-    text-align: center;
-    font-size: 10px;
-    box-shadow: 0 8px 0 black,0 6px 20px 0 black;
+
+form{
+    display: inline-block;
 }
