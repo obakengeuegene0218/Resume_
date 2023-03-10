@@ -29,7 +29,7 @@ font-size: 35px;
 
 
 
-.image { display: flex;
+.image { 
     border-radius: 20%;
     margin-left: 40%;
     margin-right: 50%;
@@ -113,18 +113,24 @@ button:hover{
         background-color:white;
     
     }
+
     .A2{
         background-color:#ADC5CF;
         display: inline-block;
         height: fit-content;
         }
-        .image { display: flex;
+
+
+        .image { 
             border-radius:  60%;
             
         
         }
+
+
         .reason{
             font-size: 35%;}
+            
 } 
 
 
@@ -142,7 +148,7 @@ button:hover{
         display: inline-block;
         height: fit-content;
         }
-        .image { display: flex;
+        .image {
             border-radius:  60%;
             
         
@@ -164,7 +170,7 @@ button:hover{
         display: inline-block;
         height: fit-content;
         }
-        .image { display: flex;
+        .image {
             border-radius:  60%;
             
         
